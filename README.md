@@ -81,7 +81,7 @@ Book covers are displayed as fixed-height thumbnails to keep the README compact.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/booknest.git
+   git clone https://github.com/itsdevzam/booknest.git
    ```
 
 2. Enter the project directory:
