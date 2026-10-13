@@ -1,0 +1,10 @@
+framework module flutter_rar {
+  umbrella header "flutter_rar-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_rar.__Swift {
+  exclude header "flutter_rar-Swift.h"
+}

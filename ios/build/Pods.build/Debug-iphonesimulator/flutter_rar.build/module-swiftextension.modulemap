@@ -1,0 +1,5 @@
+
+module flutter_rar.Swift {
+  header "flutter_rar-Swift.h"
+  requires objc
+}

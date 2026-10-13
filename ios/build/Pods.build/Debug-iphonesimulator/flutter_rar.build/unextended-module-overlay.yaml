@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Debug-iphonesimulator/flutter_rar/flutter_rar.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Debug-iphonesimulator/flutter_rar/flutter_rar.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "flutter_rar-Swift.h",
+      "external-contents": "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/unextended-interface-header.h",
+    }]
+  }]
+}

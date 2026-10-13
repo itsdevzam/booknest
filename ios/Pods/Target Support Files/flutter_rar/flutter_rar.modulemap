@@ -1,0 +1,6 @@
+framework module flutter_rar {
+  umbrella header "flutter_rar-umbrella.h"
+
+  export *
+  module * { export * }
+}

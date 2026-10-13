@@ -1,0 +1,4 @@
+
+module flutter_rar.__Swift {
+  exclude header "flutter_rar-Swift.h"
+}

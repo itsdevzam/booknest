@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/flutter_rar-primary.dia",
+    "emit-module-dependencies" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/flutter_rar-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/flutter_rar-primary-emit-module.dia",
+    "pch" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/flutter_rar-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/flutter_rar-primary.swiftdeps"
+  },
+  "/Volumes/Codes/DevZam/Flutter/booknest/packages/flutter_rar/ios/Classes/FlutterRarPlugin.swift" : {
+    "const-values" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.swiftconstvalues",
+    "dependencies" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.d",
+    "diagnostics" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.o",
+    "llvm-bc" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.bc",
+    "object" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.o",
+    "swift-dependencies" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin.swiftdeps",
+    "swiftmodule" : "/Volumes/Codes/DevZam/Flutter/booknest/ios/build/Pods.build/Debug-iphonesimulator/flutter_rar.build/Objects-normal/x86_64/FlutterRarPlugin~partial.swiftmodule"
+  }
+}

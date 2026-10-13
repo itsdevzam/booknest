@@ -1,0 +1,32 @@
+{
+  "name": "flutter_rar",
+  "version": "0.2.1",
+  "summary": "Native UnRAR extraction for Flutter.",
+  "description": "Extracts RAR archives on iOS with UnrarKit, the official UnRAR library.",
+  "homepage": "https://github.com/itsdevzam/flutter_rar",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "flutter_rar": "itsdevzam@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "flutter_rar/Sources/flutter_rar/**/*.swift",
+  "dependencies": {
+    "Flutter": [],
+    "UnrarKit": [
+      "~> 2.9"
+    ]
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,6 @@
+framework module flutter_file_manager_ios {
+  umbrella header "flutter_file_manager_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

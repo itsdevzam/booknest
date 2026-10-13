@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'flutter_rar' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'UnrarKit' in project 'Pods'
+Target 'UnrarKit' in project 'Pods'
+➜ Explicit dependency on target 'UnrarKit-UnrarKitResources' in project 'Pods'
+Target 'UnrarKit-UnrarKitResources' in project 'Pods' (no dependencies)
+Target 'Flutter' in project 'Pods' (no dependencies)

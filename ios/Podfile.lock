@@ -1,0 +1,56 @@
+PODS:
+  - background_downloader (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_file_manager_ios (0.0.1):
+    - Flutter
+  - flutter_rar (0.2.1):
+    - Flutter
+    - UnrarKit (~> 2.9)
+  - pdfx (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - UnrarKit (2.10):
+    - UnrarKit/unrar-lib (= 2.10)
+  - UnrarKit/unrar-lib (2.10)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - background_downloader (from `.symlinks/plugins/background_downloader/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_file_manager_ios (from `.symlinks/plugins/flutter_file_manager_ios/ios`)
+  - flutter_rar (from `.symlinks/plugins/flutter_rar/ios`)
+  - pdfx (from `.symlinks/plugins/pdfx/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - UnrarKit
+
+EXTERNAL SOURCES:
+  background_downloader:
+    :path: ".symlinks/plugins/background_downloader/ios"
+  Flutter:
+    :path: Flutter
+  flutter_file_manager_ios:
+    :path: ".symlinks/plugins/flutter_file_manager_ios/ios"
+  flutter_rar:
+    :path: ".symlinks/plugins/flutter_rar/ios"
+  pdfx:
+    :path: ".symlinks/plugins/pdfx/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  background_downloader: 50e91d979067b82081aba359d7d916b3ba5fadad
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_file_manager_ios: 799b040e45c8d2ed1226440f630ca69b65547e66
+  flutter_rar: 871b27685249de57f9338444baed53e9226d77e0
+  pdfx: 824a9108791a81e400da7d1a903ab73668365072
+  UnrarKit: 62f535c7a34ec52d2514b9b148f33dcfa9a9dc39
+  url_launcher_ios: 7a95fa5b60cc718a708b8f2966718e93db0cef1b
+
+PODFILE CHECKSUM: 8209d2236359802210085b957796b68fa4501143
+
+COCOAPODS: 1.16.2

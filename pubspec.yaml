@@ -1,0 +1,53 @@
+name: booknest
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  bloc_concurrency: ^0.3.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  html: ^0.15.7
+  http: ^1.6.0
+  iconsax: ^0.0.8
+  flutter_modern_animated_loader: ^0.0.2
+  rxdart: ^0.28.0
+  path_provider: ^2.1.6
+  background_downloader: ^9.5.9
+  flutter_rar: ^0.2.1
+  pdfx: ^2.11.0
+  url_launcher: ^6.3.2
+  flutter_file_saver: ^0.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/icon/
+
+  fonts:
+    - family: Cinzel
+      fonts:
+        - asset: assets/font/CinzelBlack.ttf
+        - asset: assets/font/CinzelRegular.ttf
+          weight: 500
+        - asset: assets/font/CinzelBold.ttf
+          weight: 600 
+    - family: Rubik
+      fonts:
+        - asset: assets/font/Rubik-Regular.ttf
+          weight: 500 
+        - asset: assets/font/Rubik-SemiBold.ttf
+          weight: 600        
+
+          
