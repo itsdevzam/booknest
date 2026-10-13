@@ -36,7 +36,7 @@ BookNest is an open-source Flutter project for browsing an ebook collection and 
 
 Book covers are displayed as fixed-height thumbnails to keep the README compact.
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <img src="assets/github_images/1.jpeg" alt="BookNest image 1" height="180"><br>
