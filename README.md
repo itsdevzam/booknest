@@ -36,32 +36,32 @@ BookNest is an open-source Flutter project for browsing an ebook collection and 
 
 Book covers are displayed as fixed-height thumbnails to keep the README compact.
 
-<table width="100%">
+<table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/github_images/1.jpeg" alt="BookNest image 1" height="180"><br>
+      <img src="assets/github_images/1.jpeg" alt="BookNest image 1" height="280"><br>
       <sub>Book 1</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/github_images/2.jpeg" alt="BookNest image 2" height="180"><br>
+      <img src="assets/github_images/2.jpeg" alt="BookNest image 2" height="280"><br>
       <sub>Book 2</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/github_images/3.jpeg" alt="BookNest image 3" height="180"><br>
+      <img src="assets/github_images/3.jpeg" alt="BookNest image 3" height="280"><br>
       <sub>Book 3</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/github_images/4.jpeg" alt="BookNest image 4" height="180"><br>
+      <img src="assets/github_images/4.jpeg" alt="BookNest image 4" height="280"><br>
       <sub>Book 4</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/github_images/5.jpeg" alt="BookNest image 5" height="180"><br>
+      <img src="assets/github_images/5.jpeg" alt="BookNest image 5" height="280"><br>
       <sub>Book 5</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/github_images/6.jpeg" alt="BookNest image 6" height="180"><br>
+      <img src="assets/github_images/6.jpeg" alt="BookNest image 6" height="280"><br>
       <sub>Book 6</sub>
     </td>
   </tr>
@@ -101,9 +101,7 @@ Book covers are displayed as fixed-height thumbnails to keep the README compact.
    ```bash
    flutter run
    ```
-
-Replace `YOUR_USERNAME` with your GitHub username, or use your repository's actual clone URL.
-
+   
 ## Project structure
 
 ```text
@@ -166,9 +164,9 @@ For substantial changes, consider opening an issue first to discuss the proposed
 
 ## License
 
-Choose and add a license before publishing this repository as open source. For example, the MIT License is commonly used for permissively licensed software, but choose it only if it matches your intentions and you have the rights to license all included code.
+BookNest's application code is licensed under the [MIT License](LICENSE).
 
-If you choose MIT, add a `LICENSE` file containing the full MIT license and your copyright notice. A repository without a license generally does not grant others permission to reuse, modify, or redistribute its code.
+The MIT License applies only to code and other materials that you have the right to license. Third-party books, book covers, fonts, and other assets may have separate copyright and license terms; check those permissions before redistributing them.
 
 ---
 
